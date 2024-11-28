@@ -1,0 +1,40 @@
+h1,
+h2 {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #7af02c;
+    color:#09130c(47, 255, 95);
+    padding: 10px;
+    text-align: center;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: space-between;
+}
+
+footer {
+    background-color: black;
+    color: grey;
+    padding: 10px;
+    text-align: center;
+}
+
+nav{
+    background-color: rgb(20, 234, 120);
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    margin-right: 15px;
+    text-decoration: none;
+
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
